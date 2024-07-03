@@ -2,6 +2,8 @@
 
 O Projeto realizado em react usando componentes MUI
 
+Deploy: https://projectturism.vercel.app/
+
 ## Sobre o site
 
 O Site é composto de 4 paginas
