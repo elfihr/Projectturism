@@ -1,0 +1,41 @@
+.navigation-menu{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-menu li{
+    margin:  0 20px;
+}
+
+.active{
+    color: goldenrod !important;
+}
+
+.navigation-menu li a{
+    text-decoration: none;
+    color: inherit;
+    color: var(--color-light-050);
+ 
+}
+
+/* display em modo mobile*/
+.mobile-navigation{
+    list-style: none;
+}
+
+.mobile-navigation li{
+    margin-top:20px;
+}
+
+.mobile-navigation li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color:var(--color-dark-950);
+}
+
+
+
+
+
